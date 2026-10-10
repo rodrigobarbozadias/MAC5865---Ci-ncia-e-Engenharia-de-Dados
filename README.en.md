@@ -4,6 +4,8 @@
 
 Repository with the assignments developed for **MAC5865 — Data Science and Engineering** (*Ciência e Engenharia de Dados*), a graduate course in Computer Science at the Institute of Mathematics and Statistics of the University of São Paulo (IME-USP).
 
+**Professor:** Roberto Hirata Junior
+
 ## Objectives
 
 To understand the fundamentals of data science and engineering through the topics covered in the course, such as techniques for manipulating, representing, analyzing, modeling, and validating large datasets.
