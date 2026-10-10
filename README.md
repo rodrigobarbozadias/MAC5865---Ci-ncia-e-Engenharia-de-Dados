@@ -4,6 +4,8 @@
 
 Repositório com os trabalhos desenvolvidos na disciplina **MAC5865 — Ciência e Engenharia de Dados**, do programa de pós-graduação em Ciência da Computação do Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP).
 
+**Docente:** Prof. Dr. Roberto Hirata Junior
+
 **Professor:** Roberto Hirata Junior
 
 ## Objetivos
